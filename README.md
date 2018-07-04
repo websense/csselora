@@ -1,2 +1,2 @@
 # csselora
-Lora project code (arduino and python simulator)
+Lora project code for arduino and Lora shield
