@@ -1,2 +1,2 @@
 # csselora
-Lora project code for arduino and Lora shield
+TTN Lora project code for arduino and Lora shield
